@@ -1,0 +1,17 @@
+@media screen and (min-width: 768px) {
+  .container-my {
+    max-width: 68%;
+  }
+}
+
+.btn-my {
+  background-color: #ff7f50;
+  border-color: #ff7f51;
+}
+
+.navbar-brand {
+  font-size: 1.55rem;
+  font-weight:600 ;
+  margin: 0%;
+}
+
